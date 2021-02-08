@@ -1,0 +1,2 @@
+figure;
+plot(DAte, DEXUSEU);

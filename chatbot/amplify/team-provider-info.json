@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ansamplifychatbot-dev-132504-authRole",
+      "UnauthRoleArn": "arn:aws:iam::091321312747:role/amplify-ansamplifychatbot-dev-132504-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::091321312747:role/amplify-ansamplifychatbot-dev-132504-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-ansamplifychatbot-dev-132504-deployment",
+      "UnauthRoleName": "amplify-ansamplifychatbot-dev-132504-unauthRole",
+      "StackName": "amplify-ansamplifychatbot-dev-132504",
+      "StackId": "arn:aws:cloudformation:eu-west-2:091321312747:stack/amplify-ansamplifychatbot-dev-132504/3f95db30-0aeb-11eb-aed9-061b8a4fe7a6",
+      "AmplifyAppId": "d1owcabi3v3mdi"
+    },
+    "categories": {
+      "auth": {
+        "cognito4ccc162d": {}
+      }
+    }
+  }
+}
