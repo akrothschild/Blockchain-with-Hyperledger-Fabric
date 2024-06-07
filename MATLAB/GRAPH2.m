@@ -1,2 +1,0 @@
-figure;
-plot(DAte, DEXUSEU);
